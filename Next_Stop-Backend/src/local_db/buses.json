@@ -1,73 +1,27 @@
 [
-    {
-      "busNumber": "TN01AB1234",
-      "busName": "KPN Travels",
-      "type": "AC",
-      "routeId": "route1",
-      "operatorName1": "Ravi Kumar",
-      "operatorPhone1": "9898989898",
-      "operatorName2": "Sankar",
-      "operatorPhone2": "9876500000"
-    },
-    {
-      "busNumber": "TN02CD5678",
-      "busName": "Parveen Travels",
-      "type": "Non-AC",
-      "routeId": "route1",
-      "operatorName1": "Suresh Kumar",
-      "operatorPhone1": "9797979797",
-      "operatorName2": null,
-      "operatorPhone2": null
-    },
-    {
-      "busNumber": "TN03EF9012",
-      "busName": "Orange Tours",
-      "type": "Sleeper",
-      "routeId": "route2",
-      "operatorName1": "Ramesh",
-      "operatorPhone1": "9696969696",
-      "operatorName2": "Kumar",
-      "operatorPhone2": "9600000000"
-    },
-    {
-      "busNumber": "TN04GH3456",
-      "busName": "National Travels",
-      "type": "AC",
-      "routeId": "route2",
-      "operatorName1": "Vijay",
-      "operatorPhone1": "9595959595",
-      "operatorName2": null,
-      "operatorPhone2": null
-    },
-    {
-      "busNumber": "TN05IJ7890",
-      "busName": "Madurai Express",
-      "type": "Sleeper",
-      "routeId": "route3",
-      "operatorName1": "Karthik",
-      "operatorPhone1": "9494949494",
-      "operatorName2": null,
-      "operatorPhone2": null
-    },
-    {
-      "busNumber": "TN06KL3456",
-      "busName": "SRM Travels",
-      "type": "AC",
-      "routeId": "route3",
-      "operatorName1": "Manoj",
-      "operatorPhone1": "9393939393",
-      "operatorName2": null,
-      "operatorPhone2": null
-    },
-    {
-      "busNumber": "TN07MN7890",
-      "busName": "SETC",
-      "type": "Non-AC",
-      "routeId": "route1",
-      "operatorName1": "Selva",
-      "operatorPhone1": "9292929292",
-      "operatorName2": null,
-      "operatorPhone2": null
-    }
-  ]
-  
+  { "busNumber": "TN01AB1234", "busName": "KPN Travels", "type": "AC", "routeId": "route1", "operatorName1": "Ravi Kumar", "operatorPhone1": "9898989898", "operatorName2": "Sankar", "operatorPhone2": "9876500000" },
+  { "busNumber": "TN02CD5678", "busName": "Parveen Travels", "type": "Non-AC", "routeId": "route1", "operatorName1": "Suresh Kumar", "operatorPhone1": "9797979797", "operatorName2": null, "operatorPhone2": null },
+  { "busNumber": "TN03EF9012", "busName": "Orange Tours", "type": "Sleeper", "routeId": "route2", "operatorName1": "Ramesh", "operatorPhone1": "9696969696", "operatorName2": "Kumar", "operatorPhone2": "9600000000" },
+  { "busNumber": "TN04GH3456", "busName": "National Travels", "type": "AC", "routeId": "route2", "operatorName1": "Vijay", "operatorPhone1": "9595959595", "operatorName2": null, "operatorPhone2": null },
+  { "busNumber": "TN05IJ7890", "busName": "Madurai Express", "type": "Sleeper", "routeId": "route3", "operatorName1": "Karthik", "operatorPhone1": "9494949494", "operatorName2": null, "operatorPhone2": null },
+  { "busNumber": "TN06KL3456", "busName": "SRM Travels", "type": "AC", "routeId": "route3", "operatorName1": "Manoj", "operatorPhone1": "9393939393", "operatorName2": null, "operatorPhone2": null },
+  { "busNumber": "TN07MN7890", "busName": "SETC", "type": "Non-AC", "routeId": "route1", "operatorName1": "Selva", "operatorPhone1": "9292929292", "operatorName2": null, "operatorPhone2": null },
+  { "busNumber": "TN08OP1234", "busName": "Rathimeena Travels", "type": "AC", "routeId": "route4", "operatorName1": "Arun", "operatorPhone1": "9191919191", "operatorName2": "Bala", "operatorPhone2": "9188888888" },
+  { "busNumber": "TN09QR5678", "busName": "Vivegam Travels", "type": "Sleeper", "routeId": "route4", "operatorName1": "Prakash", "operatorPhone1": "9090909090", "operatorName2": null, "operatorPhone2": null },
+  { "busNumber": "TN10ST9012", "busName": "Thirumal Travels", "type": "Non-AC", "routeId": "route5", "operatorName1": "Ganesh", "operatorPhone1": "8989898989", "operatorName2": "Murali", "operatorPhone2": "8977777777" },
+  { "busNumber": "TN11UV2345", "busName": "Anbu Tours", "type": "AC", "routeId": "route5", "operatorName1": "Hemanth", "operatorPhone1": "8877665544", "operatorName2": null, "operatorPhone2": null },
+  { "busNumber": "TN12WX6789", "busName": "Siva Express", "type": "Non-AC", "routeId": "route6", "operatorName1": "Deepak", "operatorPhone1": "8765432109", "operatorName2": "Naveen", "operatorPhone2": "8750012345" },
+  { "busNumber": "TN13YZ0123", "busName": "CityLink", "type": "AC", "routeId": "route6", "operatorName1": "Aravind", "operatorPhone1": "8642001122", "operatorName2": null, "operatorPhone2": null },
+  { "busNumber": "TN14AA4567", "busName": "BlueLine Travels", "type": "Sleeper", "routeId": "route7", "operatorName1": "Kiran", "operatorPhone1": "8533456677", "operatorName2": "Raju", "operatorPhone2": "8520011223" },
+  { "busNumber": "TN15BB8901", "busName": "Metro Express", "type": "AC", "routeId": "route7", "operatorName1": "Sathish", "operatorPhone1": "8412345678", "operatorName2": null, "operatorPhone2": null },
+  { "busNumber": "TN16CC2345", "busName": "RapidGo", "type": "Non-AC", "routeId": "route8", "operatorName1": "Mani", "operatorPhone1": "8309988776", "operatorName2": "Venu", "operatorPhone2": "8300011002" },
+  { "busNumber": "TN17DD6789", "busName": "Prime Travels", "type": "AC", "routeId": "route8", "operatorName1": "Balaji", "operatorPhone1": "8201122334", "operatorName2": null, "operatorPhone2": null },
+  { "busNumber": "TN18EE0123", "busName": "Velankanni Tours", "type": "Sleeper", "routeId": "route9", "operatorName1": "Rajan", "operatorPhone1": "8105566778", "operatorName2": "Latha", "operatorPhone2": "8100004455" },
+  { "busNumber": "TN19FF4567", "busName": "Galaxy Travels", "type": "AC", "routeId": "route9", "operatorName1": "Nitin", "operatorPhone1": "8006677889", "operatorName2": null, "operatorPhone2": null },
+  { "busNumber": "TN20GG8901", "busName": "GRT Travels", "type": "Non-AC", "routeId": "route10", "operatorName1": "Pradeep", "operatorPhone1": "7998877665", "operatorName2": "Vikram", "operatorPhone2": "7990001112" },
+  { "busNumber": "TN21HH2345", "busName": "Victory Tours", "type": "AC", "routeId": "route10", "operatorName1": "Sanjeev", "operatorPhone1": "7887766554", "operatorName2": null, "operatorPhone2": null },
+  { "busNumber": "TN22II6789", "busName": "Royal Express", "type": "Sleeper", "routeId": "route2", "operatorName1": "Sachin", "operatorPhone1": "7776655443", "operatorName2": "Ajay", "operatorPhone2": "7770003332" },
+  { "busNumber": "TN23JJ0123", "busName": "Eastern Travels", "type": "Non-AC", "routeId": "route4", "operatorName1": "Vasanth", "operatorPhone1": "7665544332", "operatorName2": null, "operatorPhone2": null },
+  { "busNumber": "TN24KK4567", "busName": "Lakshmi Travels", "type": "AC", "routeId": "route3", "operatorName1": "Gopal", "operatorPhone1": "7554433221", "operatorName2": "Rohit", "operatorPhone2": "7550002211" },
+  { "busNumber": "TN25LL8901", "busName": "Sundaram", "type": "Non-AC", "routeId": "route5", "operatorName1": "Muthu", "operatorPhone1": "7443322110", "operatorName2": null, "operatorPhone2": null }
+]
